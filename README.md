@@ -1,2 +1,3 @@
 # Diamonds
 Miniproject Diamonds
++ Gruppe:
