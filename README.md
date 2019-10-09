@@ -1,4 +1,4 @@
 # Diamonds
 Miniproject Diamonds
 + Gruppe:
-Test a
+Test an
