@@ -8,4 +8,4 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 %matplotlib inline
 
-USAhousing = pd.read_csv('../data/USA_Housing.csv')
+diamonds = pd.read_csv('../data/USA_Housing.csv')
