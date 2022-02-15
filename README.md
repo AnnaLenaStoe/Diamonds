@@ -2,7 +2,7 @@
 
 [Diamond](https://en.wikipedia.org/wiki/Diamond) is a solid form of the element carbon with its atoms arranged in a crystal structure called diamond cubic. At room temperature and pressure, another solid form of carbon known as graphite is the chemically stable form, but diamond almost never converts to it. Diamond has the highest hardness and thermal conductivity of any natural material, properties that are utilized in major industrial applications such as cutting and polishing tools. They are also the reason that diamond anvil cells can subject materials to pressures found deep in the Earth   .
 
-![](https://github.com/BahramJannesar/DiamondsMachineLearning/blob/master/Image/GuideToDiamonds_LP_Hero_Desktop_v2-2.jpeg)
+![](https://github.com/ilona08/Diamonds/blob/master/Image/diamonds.jpg)
 
 ## Diamonds Dataset :
 This dataset was collected by Miguel Corral, Jr. The data contains eight characteristics of a diamond: shape, cut, color, clarity, carat, price, type and report of almost 54,000 diamonds. 
@@ -32,7 +32,7 @@ https://www.kaggle.com/miguelcorraljr/brilliant-diamonds
 
  * **Table** : The Width of the Diamond's Table expressed as a Percentage of its Average Diameter.
  
- ![](https://github.com/BahramJannesar/DiamondsMachineLearning/blob/master/Image/Anglo-DiamondAnatomy_03.jpg)
+ ![](https://github.com/ilona08/Diamonds/blob/master/Image/Diamond_features.jpg)
 
 ### Objectif:
 The main aim to predict, using supervised learning methods, the price of diamonds based on their different quality features.
