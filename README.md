@@ -36,3 +36,8 @@ https://www.kaggle.com/miguelcorraljr/brilliant-diamonds
 
 ### Objectif:
 The main aim to predict, using supervised learning methods, the price of diamonds based on their different quality features.
+
+## Constitution du plan : 
+ I -  PREPROCESSING
+ II -  DATA VIZ
+ III - MODELISATION
