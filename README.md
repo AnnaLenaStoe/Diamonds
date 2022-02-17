@@ -43,10 +43,10 @@ First of all, we are going to split the code's author in 3 different notebooks. 
 
 In the mean time, We implemented functions in order to make the code's author more rigorous. Also we will change the comments and put them in english before submit it. 
 
- I - PREPROCESSING
+ I - PREPROCESSING & DATA VIZUALIZATION
 
- II - DATA VIZUALIZATION
+ II - UNSUPERVISED LEARNING
 
- III - MODELING
+ III - NEURAL NETWORK 
 
 
