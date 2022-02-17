@@ -34,7 +34,7 @@ https://www.kaggle.com/miguelcorraljr/brilliant-diamonds
  
  ![](https://github.com/ilona08/Diamonds/blob/master/Image/Diamond_features.jpg)
 
-### Objectif:
+### Objective :
 The main aim to predict, using supervised learning methods, the price of diamonds based on their different quality features.
 
 ### Methodology : 
