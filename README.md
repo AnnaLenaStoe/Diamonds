@@ -39,10 +39,6 @@ The main aim to predict, using supervised learning methods, the price of diamond
 
 ### Methodology : 
 
-First of all, we are going to split the code's author in 3 different notebooks. As a result, the code will be more efficient.
-
-In the mean time, We implemented functions in order to make the code's author more rigorous. Also we will change the comments and put them in english before submit it. 
-
  I - PREPROCESSING & DATA VIZUALIZATION
 
  II - UNSUPERVISED LEARNING
